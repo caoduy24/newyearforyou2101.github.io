@@ -10,7 +10,7 @@ function start() {
   document.getElementById('title').innerText="HAPPY NEW YEAR 2023";
   
 
-  var countDownDate = new Date("2023  Jan 01 00:00:00").getTime();
+  var countDownDate = new Date("2023  Jan 02 00:00:00").getTime();
   var sayTime = new Date("2022 Dec 31 23:59:49").getTime();
   
   // Update the count down every 1 second
